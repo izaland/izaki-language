@@ -1,5 +1,6 @@
-# Izaki Language Project
+# Welcome to the Izaki Dictionary
 
-Benvenuto nel sito ufficiale del dizionario e della grammatica della lingua Izaki.
+This is the official online dictionary for the Izaki language.  
+The project is under construction, but new entries will be added soon.
 
-Work in progress…
+Feel free to explore!
