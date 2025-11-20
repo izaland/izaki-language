@@ -1,0 +1,6 @@
+site_name: Izaki Language
+theme:
+  name: material
+  language: en
+nav:
+  - Home: index.md
