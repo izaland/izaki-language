@@ -1,6 +1,6 @@
-site_name: Izaki Language
-theme:
-  name: material
-  language: en
+site_name: Izaland Dictionary
 nav:
   - Home: index.md
+  - Dictionary: dictionary.md
+theme:
+  name: material
